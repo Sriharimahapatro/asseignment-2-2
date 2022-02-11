@@ -19,7 +19,7 @@ else:
 Output
 Case 1:
 Enter roll no:17
-Enter student name:mani
+Enter student name:hari
 Enter marks of the first subject: 85
 Enter marks of the second subject: 95
 Enter marks of the third subject: 99
@@ -29,7 +29,7 @@ Grade: A
  
 Case 2:
 Enter roll no:12
-Enter student name:Eswar
+Enter student name:sri
 Enter marks of the first subject: 81
 Enter marks of the second subject: 72
 Enter marks of the third subject: 94
